@@ -1,0 +1,44 @@
+
+#container {
+  height: 500px;
+  width: 500px;
+  margin: 0 auto;
+  padding-top: 50px;
+  font-family: "Helvetica", sans-serif;
+  font-weight: bolder;
+}
+#playerturn {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+span {
+  margin-top: 5px;
+  font-size: 3em;
+  text-shadow: 2px 3px black;
+}
+.button {
+  height: 150px;
+  width: 150px;
+  border: 3px dashed rgba(0, 0, 0, .5);
+  text-align: center;
+  font-size: 7em;
+  text-shadow: 2px 3px black;
+
+}
+table {
+  width: 450px;
+  margin: 0 auto;
+  border-collapse: collapse;
+  border: 4px dotted rgba(0, 0, 0, .3);
+}
+
+#refresh {
+  width: 100px;
+  padding: 10px;
+  margin-top: 20px;
+  position: relative;
+  left: 200px;
+  border-radius: 4px;
+}
